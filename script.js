@@ -18,7 +18,7 @@ function formatMessage(name, grade) {
 
 // Part 3: Loops
 
-const students = []; // Start with empty class list
+const students = [];
 
 // Part 1 & 2: Single Student Grade Checker
 
